@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to My MAGD 150 Assignments
+## ReadmeFile
 
-You can use the [editor on GitHub](https://github.com/shannondorf1/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+In this repository are examples of code for my MAGD 150 class
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Assignments
+[Black and white/Project1](https://github.com/shannondorf1/MAGD-150-Assignments/tree/gh-pages/s19magd150lab01_luedtke)
 
-### Markdown
+This is my black and white composition that I made
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Color example/Project2](https://github.com/shannondorf1/MAGD-150-Assignments/tree/gh-pages/s19magd150lab02_luedtke/s19magd150lab02_luedtke)
 
-```markdown
-Syntax highlighted code block
+This is my color composition where I made a few balloons in color
 
-# Header 1
-## Header 2
-### Header 3
+[Math example/Project3](https://github.com/shannondorf1/MAGD-150-Assignments/tree/gh-pages/s19magd150lab03_luedtke)
 
-- Bulleted
-- List
+This is my math sketch where I made two moving circles based on the math involved
 
-1. Numbered
-2. List
+[Dynamic example/Projct4](https://github.com/shannondorf1/MAGD-150-Assignments/tree/gh-pages/s19magd150lab04_luedtke)
 
-**Bold** and _Italic_ and `Code` text
+This is a dynamic sketch showing animated whirlpools being created
 
-[Link](url) and ![Image](src)
-```
+[Buttons example/Project5](https://github.com/shannondorf1/MAGD-150-Assignments/tree/gh-pages/s19magd150lab05_luedtke)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is my sketch where I created a television that responded to a button being clicked
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shannondorf1/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
